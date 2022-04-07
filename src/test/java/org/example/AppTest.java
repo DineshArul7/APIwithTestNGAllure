@@ -24,6 +24,6 @@ public class AppTest
     public void test(){
 System.out.println("deekay");
     }
+    public void eeeee(){
+    {
 }
-
-
