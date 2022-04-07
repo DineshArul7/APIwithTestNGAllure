@@ -22,7 +22,7 @@ public class AppTest
     
     //repo
     public void test(){
-
+System.out.println("deekay");
     }
 }
 
